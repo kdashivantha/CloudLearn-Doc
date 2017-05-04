@@ -1,1 +1,7 @@
 ﻿
+
+cloud 9 videos
+
+https://channel9.msdn.com/Series/Customizing-ASPNET-Authentication-with-Identity
+
+https://mva.microsoft.com/training-topics/web-development#!jobf=Developer&lang=1033
